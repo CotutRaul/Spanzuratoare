@@ -1,0 +1,2 @@
+# Spanzuratoare
+A romanian hangman
